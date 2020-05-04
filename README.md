@@ -10,7 +10,7 @@ The paper draft is available at https://arxiv.org/abs/2004.14254
 
 1. download the datasets and unzip this folder in src/data.
 2. Using the following command to run the code.
-'''
+```
 cd src/dialogue_system/run
-python run.py
-'''
+python run.py --help
+```
