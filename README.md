@@ -18,12 +18,10 @@ python run.py --help
 
 # Cite
 ```
-@inproceedings{wei2018task,
-  title={Task-oriented Dialogue System for Automatic Diagnosis},
-  author={Liu, Qianlong and Wei, Zhongyu and Peng, Baolin and Tou, Huaixiao and Chen, Ting and Huang, Xuanjing and Wong, Kam-Fai and Dai, Xiangying},
-  booktitle={Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)},
-  volume={2},
-  pages={201--207},
-  year={2018}
+@article{liao2020task,
+  title={Task-oriented Dialogue System for Automatic Disease Diagnosis via Hierarchical Reinforcement Learning},
+  author={Liao, Kangenbei and Liu, Qianlong and Wei, Zhongyu and Peng, Baolin and Chen, Qin and Sun, Weijian and Huang, Xuanjing},
+  journal={arXiv preprint arXiv:2004.14254},
+  year={2020}
 }
 ```
